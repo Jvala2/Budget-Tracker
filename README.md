@@ -25,6 +25,12 @@ While creating this, I learned more about service workers and offline handling. 
 
 This should be ready out of the box. Simply go to https://obscure-waters-16191.herokuapp.com/
 
+
+## Usage
+
+
+Go to https://obscure-waters-16191.herokuapp.com/
+
 Try going offline and entering your transactions.
 
 You should see the site updates even offline.
@@ -33,34 +39,11 @@ Go back online to save changes permanently.
 
 
 
-
-## Usage
-
-
-
-
     
-
-
-
-
-
-
 
 ## Credits
 
 Joseph Valancy https://github.com/Jvala2 joevalancy@gmail.com
-
-
-
-
-
-
-
-
-
-
-
 
 
 
