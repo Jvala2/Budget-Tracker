@@ -37,6 +37,7 @@ You should see the site updates even offline.
 
 Go back online to save changes permanently.
 
+![Alt text](public/icons/budget.png "Title")
 
 
     
